@@ -1,6 +1,3 @@
-Here is a polished, professional GitHub README.md for your project.
-You can directly copy-paste this into a file named README.md inside your repository.
-
 📊 Sentiment Analysis on Customer Service Tweets using NLP
 🔹 Overview
 
