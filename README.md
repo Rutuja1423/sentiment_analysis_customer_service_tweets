@@ -30,3 +30,8 @@ XGBoost
 Pandas, NumPy
 
 Matplotlib, WordCloud
+
+## Contributors
+- Rutuja – NLP Pipeline Development, Model Training  
+- Sanman – Data Preprocessing, Evaluation, Documentation  
+
